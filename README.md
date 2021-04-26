@@ -1,7 +1,7 @@
 # dynamic-nmf: Dynamic Topic Modeling - for congress 1982-2020
 
 ### JMP Summary
-The code in this forked repository is generally the same as the original repository. The code is slightly modified to work with the processed Hein-Daily collection of the Congressional record, which is not in single text file form. This repository also includes the custom code for pre-processing the speeches in the congressional record.
+The code in this forked repository is generally the same as the original repository. The code is slightly modified to work with the processed Hein-Daily collection of the Congressional record, which is not in single text file form. This repository also includes the custom code for pre-processing the speeches in the congressional record. We are also in the process of porting this NMF method to AWS sagemaker.
 
 
 ### Original DG Summary
